@@ -1,9 +1,9 @@
 {
-  "name": "gsx2json",
+  "name": "tejas612.github.io/TejSheetApi/",
   "version": "1.0.0",
   "description": "Google Spreadsheet to JSON API app",
   "main": "app.js",
-  "author": "Nick Moreton",
+  "author": "Tejas",
   "dependencies": {
     "body-parser": "^1.x.x",
     "express": "^4.x.x",
